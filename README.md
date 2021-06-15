@@ -58,5 +58,5 @@ This folder contains scatter plots looking at different weather information comp
 3. City Latitude vs. Cloudiness (%)
 4. City Latitude vs. Wind Speed
 
-Please see script WeatherPy.IPYNB to see linear regression models on the four weather information scatter plots by Northern and Southern Hemisphere.
+Extra: Please see script WeatherPy.IPYNB to see linear regression models on the four weather information scatter plots by Northern and Southern Hemisphere.
 
